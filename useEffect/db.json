@@ -1,0 +1,56 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Javascript"
+    },
+    {
+      "id": 2,
+      "title": "Recat"
+    },
+    {
+      "id": 3,
+      "title": "HTML"
+    },
+    {
+      "title": "CSS",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Node Js",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Express",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Mongo",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Hooks",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "UseState",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "UseEffect",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "Cricket",
+      "status": false,
+      "id": 11
+    }
+  ]
+}
